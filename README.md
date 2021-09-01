@@ -1,10 +1,6 @@
-https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
-
-
-# Hi there 👋, 
-my name is Towhid Hasan
-## I am front-end web developer 
-
+### Hi there 👋, my name is Towhid Hasan
+#### I am front-end web developer 
+![I am front-end web developer ](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350&w=940)
 
 I will provide any kinds of web site design and web site development services.
 
