@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Towhid Hasan
 #### I am front-end web developer 
-![I am front-end web developer ](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=250&w=840)
+![I am front-end web developer ](https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=250&w=240)
 
 I will provide any kinds of web site design and web site development services.
 
