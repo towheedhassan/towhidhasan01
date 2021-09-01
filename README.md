@@ -1,12 +1,12 @@
 # Hi there 👋, 
 # I'm Towhid Hasan.
 ### I am front-end web developer 
-![I am front-end web developer ](https://lh3.googleusercontent.com/proxy/PTlXbKkNAWTLkJPCBVlcjAf6HVm85KN4aUvQGWFs3behmeFMNVzLxkwiuNdfPO_EEiurnjvNwCnUf2OIKPbGc_q9JllI25eVtsxjJ7speQ9BXYnuUKcPK2BiGBLGQLO5Q4wkOSRYIQfsl7eb8WTelKnXFiKv1Yhq-tPBwcY)
+![I am front-end web developer ](https://img1.exportersindia.com/product_images/bc-full/2018/10/5864233/website-designing-development-services-1540971399-4422226.jpeg)
 
 I will provide any kinds of web site design and web site development services.
 
 
-Skills: Js / Bootstrap / HTML / CSS
+Skills: JS / BOOTSTRAP / HTML / CSS
 
 - 🔭 I’m currently working on web design 
 - 🌱 I’m currently learning javascript 
