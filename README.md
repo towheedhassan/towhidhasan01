@@ -1,4 +1,4 @@
-![I am front-end web developer ](https://images.pexels.com/photos/3888151/pexels-photo-3888151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 
 # Hi there 👋, 
